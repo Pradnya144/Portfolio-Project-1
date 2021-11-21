@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap&family=Playfair+Display&display=swap');
 
 * {
     margin: 0;
@@ -33,4 +33,9 @@ h1 {
 .about-us {
     background-color: #1E646E;
     height: 300px;
+}
+#about-center {
+    font-family: 'Playfair Display', serif;
+    margin: 100px;
+    list-style-type: none;
 }
