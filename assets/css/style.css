@@ -36,6 +36,9 @@ h1 {
 }
 #about-center {
     font-family: 'Playfair Display', serif;
-    margin: 100px;
     list-style-type: none;
+    color: #fff;
+    font-size: 25px;
+    text-align: center;
+    padding-top: 100px;
 }
