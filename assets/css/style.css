@@ -49,3 +49,15 @@ h1 {
     font-style: italic;
 
 }
+
+/* footer */
+.social-media {
+    height: 50px;
+    text-align: center;
+}
+
+.social-media li {
+    display: inline;
+    font-size: 250%;
+    padding:0 5%;
+}
