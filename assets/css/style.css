@@ -61,3 +61,14 @@ h1 {
     font-size: 250%;
     padding:0 5%;
 }
+
+/* gallery */
+.photos  {
+    clear: both;
+    column-count: 3;
+    padding: 50px;
+}
+
+.photos img {
+    width: 100%;
+}
