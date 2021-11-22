@@ -79,3 +79,27 @@ h1 {
 .photos img:hover {
     transform: scale(1.1);
 }
+
+/* contact us page */
+.map {
+    height: 500px;
+    padding: 50px;
+    background-color: #1E646E;
+}
+
+.map > h3 {
+    font-family: 'Playfair Display', serif;
+    text-align: center;
+}
+
+.map table {
+    align-self: center;
+    width: 50%;
+    margin: 0 auto;
+    padding-top: 20px;
+}
+
+iframe {
+    width: 100%;
+    height: 300px;
+}
