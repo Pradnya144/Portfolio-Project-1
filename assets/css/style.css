@@ -20,6 +20,16 @@ h1 {
     font-size: 50px;
     
 }
+
+#menu {
+    font-size: 150%;
+    float: right;
+}
+#menu li {
+    float: left;
+    list-style-type: none;
+    margin-right: 20px;
+}
 /* hero image */
 #hero-image {
     height: 900px;
@@ -86,6 +96,7 @@ h1 {
     background-color: rgba(30, 100, 110, 1);
     height: 100%;
     color: #FEFFED;
+    margin: 40px 30px;
 }
 
 .map {
