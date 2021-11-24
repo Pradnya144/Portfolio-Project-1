@@ -88,8 +88,8 @@ h1 {
 }
 
 .map {
-    height: 500px;
-    
+    height: 400px;
+
 }
 
 .map > h3 {
@@ -105,8 +105,8 @@ h1 {
 }
 
 iframe {
-    width: 100%;
-    height: 200px;
+    width: 80%;
+    height: 300px;
 }
 /* enquiry form */
 
@@ -115,16 +115,28 @@ iframe {
     place-items: center;
     height: 500px;
 }
-#enruiry-form {
+#enquiry-form {
     font-family: 'Playfair Display', serif;
     background-color: rgba(60, 60, 60, 0.6);
     height: 80%;
     padding: 30px;
     font-size: 20px;
 }
-#enruiry-form input {
+#enquiry-form input {
     width: 100%;
     height: 25px;
     margin: 5px 0 20px 0;
     padding-left: 5px;
+}
+#enquiry-form textarea {
+    width: 100%;
+    margin: 5px 0 20px 0;
+    padding-left: 5px;
+}
+#enquiry-form input[type=submit] {
+    width: 30%;
+    height: 30px;
+    font-size: 25px;
+    padding: 2px;
+    background-color: orange;
 }
