@@ -40,7 +40,7 @@ h1 {
 #about-center {
     font-family: 'Playfair Display', serif;
     list-style-type: none;
-    color: #fff;
+    color: #FEFFED;
     font-size: 25px;
     text-align: center;
     padding-top: 100px;
@@ -48,7 +48,7 @@ h1 {
 
 #about-center a {
     text-decoration: none;
-    color: #fff;
+    color: #FEFFED;
     font-style: italic;
 
 }
@@ -83,8 +83,9 @@ h1 {
 /* contact us page */
 .container {
     padding: 50px;
-    background-color: #1E646E;
+    background-color: rgba(30, 100, 110, 1);
     height: 100%;
+    color: #FEFFED;
 }
 
 .map {
@@ -117,7 +118,7 @@ iframe {
 }
 #enquiry-form {
     font-family: 'Playfair Display', serif;
-    background-color: rgba(60, 60, 60, 0.6);
+    background-color: rgba(0, 44, 47, 1);
     height: 80%;
     padding: 30px;
     font-size: 20px;
