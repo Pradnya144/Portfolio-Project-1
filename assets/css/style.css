@@ -157,13 +157,28 @@ h1 {
 }
 .map iframe {
     width: 80%;
-    height: 300px;
+    height: 400px;
     display: block;
     margin-right: auto;
     margin-left: auto;
-
 }
 
+.timings-center {
+    display: table;
+    margin-right: auto;
+    margin-left: auto;
+    width: 50%;
+    padding-top: 30px;
+}
+table {
+    text-align: right;
+    width: 80%;
+}
+
+th {
+    font-weight: bold;
+    text-transform: uppercase;
+}
 /* thank you page */
 #thank-you {
     text-align: center;
