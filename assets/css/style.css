@@ -97,7 +97,7 @@ h1 {
     background-color: rgba(30, 100, 110, 1);
     height: 100%;
     color: #FEFFED;
-    margin: 40px 30px;
+    margin: 25px 30px;
 }
 
 /* enquiry form */
@@ -138,13 +138,30 @@ h1 {
     margin-left: auto;
 }
 #enquiry-form input[type=submit]:hover {
-    width: 30%;
+    display: block;
+    width: 300px;
     height: 30px;
     font-size: 25px;
     padding: 2px;
+    border-radius: 10px;
+    margin-right: auto;
+    margin-left: auto;
     background-color: rgb(230, 14, 32);
     border: 2px solid black;
-    border-radius: 10px;
+}
+.map {
+    padding-top: 100px;
+}
+.map h3 {
+    text-align: center;
+}
+.map iframe {
+    width: 80%;
+    height: 300px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+
 }
 
 /* thank you page */
