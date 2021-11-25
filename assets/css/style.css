@@ -99,27 +99,6 @@ h1 {
     margin: 40px 30px;
 }
 
-.map {
-    height: 400px;
-
-}
-
-.map > h3 {
-    font-family: 'Playfair Display', serif;
-    text-align: center;
-}
-
-.map table {
-    align-self: center;
-    width: 50%;
-    margin: 0 auto;
-    padding-top: 20px;
-}
-
-iframe {
-    width: 80%;
-    height: 300px;
-}
 /* enquiry form */
 
 .contact-form {
