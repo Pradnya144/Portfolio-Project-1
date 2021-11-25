@@ -109,7 +109,8 @@ h1 {
 #enquiry-form {
     font-family: 'Playfair Display', serif;
     background-color: rgba(0, 44, 47, 1);
-    height: 80%;
+    height: 90%;
+    width: 500px;
     padding: 30px;
     font-size: 20px;
 }
@@ -125,12 +126,15 @@ h1 {
     padding-left: 5px;
 }
 #enquiry-form input[type=submit] {
-    width: 30%;
+    display: block;
+    width: 300px;
     height: 30px;
     font-size: 25px;
     padding: 2px;
     background-color: orange;
     border-radius: 10px;
+    margin-right: auto;
+    margin-left: auto;
 }
 #enquiry-form input[type=submit]:hover {
     width: 30%;
