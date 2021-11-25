@@ -10,6 +10,7 @@ html {
     height: 100%;
 }
 /* title */
+
 header a {
     text-decoration: none;
 }
@@ -20,7 +21,6 @@ h1 {
     font-size: 50px;
     
 }
-
 #menu {
     font-size: 150%;
     float: right;
@@ -29,11 +29,13 @@ h1 {
     float: left;
     list-style-type: none;
     margin-right: 20px;
+    margin-bottom: 10px;
 }
 /* hero image */
 #hero-image {
     height: 900px;
     width: 100%;
+    margin-top: 25px;
     background-image: url('../images/gold-fish.jpg'); 
     background-attachment: fixed;
     background-position: center;
