@@ -105,14 +105,17 @@ h1 {
 .contact-form {
     display: grid;
     place-items: center;
-    height: 500px;
+    height: 600px;
+}
+.container h2 {
+    text-align: center;
 }
 #enquiry-form {
     font-family: 'Playfair Display', serif;
     background-color: rgba(0, 44, 47, 1);
     height: 90%;
     width: 500px;
-    padding: 30px;
+    padding: 40px 30px;
     font-size: 20px;
 }
 #enquiry-form input {
@@ -152,9 +155,7 @@ h1 {
 .map {
     padding-top: 100px;
 }
-.map h2 {
-    text-align: center;
-}
+
 .map iframe {
     width: 80%;
     height: 400px;
