@@ -162,7 +162,7 @@ h1 {
 }
 
 .map iframe {
-    width: 80%;
+    width: 85%;
     height: 400px;
     display: block;
     margin-right: auto;
@@ -191,4 +191,55 @@ th {
     text-align: center;
     padding-top: 50px;
     font-family: 'Playfair Display', serif;
+}
+
+/* Media queries */
+@media screen and (max-width: 320px) {
+    h1 {
+        font-size: 30px;
+        }
+
+    #menu {
+        font-size: 1rem;
+        }
+    #hero-image {
+        height: 500px;
+        }
+    #about-center {
+        font-size: 1rem;
+        padding-top: 80px;
+    }
+    .social-media {
+        height: 40px;
+        padding-top: 10px;
+    }
+    .social-media li{
+        font-size: 1rem;
+    }
+    .container {
+        padding: 15px;
+        max-width: 320px;
+    }
+    .container h2 {
+        font-size: 1rem;
+    }
+    #enquiry-form {
+        width: 250px;
+        padding: 30px 20px;
+        font-size: 1rem;
+    }
+    #enquiry-form input[type=submit] {
+        width: 200px;
+        font-size: 1rem;
+    }
+    #enquiry-form input[type=submit]:hover {
+        width: 200px;
+        font-size: 1rem;
+    }
+    .map iframe {
+        height: 300px;
+    }
+    .timings-center {
+        width: 100%;
+    }
 }
