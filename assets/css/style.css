@@ -288,6 +288,19 @@ th {
 
 }
 
+/* Media queries for screen size 500px wide and down */
+@media screen and (max-width: 500px) {
+    /* hero image */
+    #hero-image {
+        background-image: url('../images/gold-fish-snipped.jpg'); 
+        background-attachment: fixed;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+}
+
 /* Media queries for screen size 360px wide and down */
 /*
 @media screen and (max-width: 360px) {
