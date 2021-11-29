@@ -232,8 +232,8 @@ th {
     }
 }
 
-/* Media queries for screen size 320px wide and down */
-@media screen and (max-width: 320px) {
+/* Media queries for screen size 360px wide and down */
+@media screen and (max-width: 360px) {
     h1 {
         font-size: 30px;
         }
