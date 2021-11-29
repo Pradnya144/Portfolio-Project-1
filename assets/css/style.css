@@ -73,7 +73,7 @@ h1 {
 
 .social-media li {
     display: inline;
-    font-size: 250%;
+    font-size: 3rem;
     padding:0 5%;
 }
 
@@ -115,22 +115,22 @@ h1 {
     font-family: 'Playfair Display', serif;
     background-color: rgba(0, 44, 47, 1);
     height: 90%;
-    width: 600px;
+    width: 800px;
     padding: 40px 30px;
-    font-size: 20px;
+    font-size: 1.5rem;
 }
 #enquiry-form input {
     width: 100%;
     height: 40px;
     margin: 5px 0 20px 0;
-    padding-left: 5px;
+    padding-left: 10px;
     font-size: inherit;
     font-family: inherit;
 }
 #enquiry-form textarea {
     width: 100%;
     margin: 5px 0 20px 0;
-    padding-left: 5px;
+    padding-left: 10px;
     overflow: auto;
     resize: vertical;
     font-size: inherit;
@@ -140,7 +140,7 @@ h1 {
     display: block;
     width: 300px;
     height: 30px;
-    font-size: 25px;
+    font-size: 1.5rem;
     background-color: orange;
     border-radius: 10px;
     margin-right: auto;
@@ -150,7 +150,7 @@ h1 {
     display: block;
     width: 300px;
     height: 30px;
-    font-size: 25px;
+    font-size: 1.5rem;
     border-radius: 10px;
     margin-right: auto;
     margin-left: auto;
@@ -163,7 +163,7 @@ h1 {
 
 .map iframe {
     width: 85%;
-    height: 400px;
+    height: 500px;
     display: block;
     margin-right: auto;
     margin-left: auto;
@@ -192,6 +192,44 @@ th {
     text-align: center;
     padding-top: 50px;
     font-family: 'Playfair Display', serif;
+}
+
+/* Media queries for screen size 2000px wide and up */
+@media screen and (min-width: 2000px) {
+    html {
+        max-width: 2300px;
+    }
+    h1 {
+        font-size: 4rem;
+        
+    }
+    #menu {
+        font-size: 3rem;
+    }
+
+    /* hero image */
+    #hero-image {
+        height: 1500px;
+        margin-top: 45px;
+    }
+    
+    /* about-us */
+    .about-us {
+        height: 400px;
+    }
+    #about-center {
+        font-size: 3rem;
+    }
+    /* footer */
+    .social-media {
+        height: 60px;
+    }
+    .social-media li {
+        font-size: 3rem;
+    }
+    .container {
+        margin-top: 45px;
+    }
 }
 
 /* Media queries for screen size 320px wide and down */
