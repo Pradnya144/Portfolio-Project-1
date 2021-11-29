@@ -232,6 +232,62 @@ th {
     }
 }
 
+/* Media queries for screen size 950px wide and down */
+@media screen and (max-width: 950px) {
+    h1 {
+        font-size: 30px;
+        }
+
+    #menu {
+        font-size: 1rem;
+        }
+     #about-center {
+        font-size: 1.5rem;
+        padding-top: 70px;
+        }
+    .social-media {
+        height: 40px;
+        padding-top: 10px;
+    }
+    .social-media li{
+        font-size: 1.5rem;
+    }
+    .photos {
+        column-count: 2;
+        padding: 20px;
+    }
+    .container {
+        padding: 15px;
+        max-width: 950px;
+    }
+    .container h2 {
+        font-size: 1rem;
+    }
+
+    #enquiry-form {
+        width: 90%;
+        padding: 30px 20px;
+        font-size: 1rem;
+    }
+    #enquiry-form input[type=submit] {
+        width: 200px;
+        font-size: 1rem;
+    }
+    #enquiry-form input[type=submit]:hover {
+        width: 200px;
+        font-size: 1rem;
+    }
+    .map iframe {
+        height: 300px;
+    }
+    .timings-center {
+        width: 100%;
+        padding-left: inherit;
+        font-size: 1rem;
+    }
+
+}
+
 /* Media queries for screen size 360px wide and down */
 @media screen and (max-width: 360px) {
     h1 {
