@@ -41,7 +41,6 @@ h1 {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    /*border: 1px solid;*/
 }
 
 /* about-us */
@@ -301,50 +300,4 @@ th {
 
 }
 
-/* Media queries for screen size 360px wide and down */
-/*
-@media screen and (max-width: 360px) {
-    
-    #hero-image {
-        height: 500px;
-        }
-    #about-center {
-        font-size: 1rem;
-        padding-top: 80px;
-    }
-    
-    }
-    .social-media li{
-        font-size: 1.5rem;
-    }
-    
-    .container {
-        padding: 15px;
-        max-width: 320px;
-    }
-    .container h2 {
-        font-size: 1rem;
-    }
-    #enquiry-form {
-        width: 90%;
-        padding: 30px 20px;
-        font-size: 1rem;
-    }
-    #enquiry-form input[type=submit] {
-        width: 200px;
-        font-size: 1rem;
-    }
-    #enquiry-form input[type=submit]:hover {
-        width: 200px;
-        font-size: 1rem;
-    }
-    .map iframe {
-        height: 300px;
-    }
-    .timings-center {
-        width: 100%;
-        padding-left: inherit;
-        font-size: 1rem;
-    }
-}
-*/
+
