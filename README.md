@@ -41,6 +41,15 @@ I knew I wanted to go with the whole water and ocean theme, so I used googles se
 
 ### Font
 
+I have used https://fonts.google.com/ for my fonts. I have chosen to use Playfair Display as my main font throughout the website. This is a fairly modern style that is easy to read at various sizes. To increase the readability, I have increased the font sizes at various occasions.
+
+I have used the font Lobster in the header for the website name as it has an underwater kind of feel to it.
+
+I imported the following code into the top of my style.css file
+
+````
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap&family=Playfair+Display&display=swap');
+````
 
 ### Images
 
