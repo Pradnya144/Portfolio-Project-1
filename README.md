@@ -53,6 +53,11 @@ I imported the following code into the top of my style.css file
 
 ### Images
 
+All the images for the website are from https://unsplash.com/. I wanted to keep the hero image very basic, yet very vibrant and inviting, with a large area of base color and not very cluttered. 
+
+The I chose a variety of images for the gallery section, some with just planted fish tanks, some with fresh water fishes and some with marine fishes in order to try and display all the things this business offers.
+
+
 ## Skeleton
 
 ### Wireframe
