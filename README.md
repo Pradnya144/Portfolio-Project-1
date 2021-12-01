@@ -62,6 +62,15 @@ The I chose a variety of images for the gallery section, some with just planted 
 
 ### Wireframe
 
+I have used balsamiq to create layout mockup of how the website would look. Being the developer and designer of the website, wireframes helped arrange different elements on the webpage to see what appeals the most visually.
+
+![First page wireframe](README-docs/first-page.png)
+
+![Second page wireframe](README-docs/second-page.png)
+
+![Third page wireframe](README-docs/third-page.png)
+
+
 ### Mockups
 
 ## Features
