@@ -23,6 +23,23 @@ A website for aquarium and fish tank lovers and hobbiests based in Limerick, Ire
 
 ### User Story
 
+User stories were created to help guide the design and implementation phases of the project and to ensure the needs of each stake holder are undestood.
+
+* Visitor Goals
+
+    * As a visitor:
+        * I want to know about the business.
+        * I want to undertsand the services they offer.
+        * I want to be able to see the kind of projects they have done before.
+        * I want to be able to contact them.
+
+* Business Owner Goals
+
+    * As a business owner:
+        * I want to more customers to find the business.
+        * I want customers to check our projects.
+        * I want customers to contact us.
+        
 ### Structure
 
 The website consists of 3 pages.
