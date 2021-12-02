@@ -74,9 +74,6 @@ All the images for the website are from https://unsplash.com/. I wanted to keep 
 
 The I chose a variety of images for the gallery section, some with just planted fish tanks, some with fresh water fishes and some with marine fishes in order to try and display all the things this business offers.
 
-
-## Skeleton
-
 ### Wireframe
 
 I have used balsamiq to create layout mockup of how the website would look. Being the developer and designer of the website, wireframes helped arrange different elements on the webpage to see what appeals the most visually.
@@ -88,11 +85,28 @@ I have used balsamiq to create layout mockup of how the website would look. Bein
 ![Third page wireframe](README-docs/third-page.png)
 
 
-### Mockups
-
 ## Features
 
 ## Technologies
+
+### Languages used
+
+* HTML5
+* CSS3
+
+### Frameworks, Libraries and Programs used
+
+1. Google Fonts:
+    * Google fonts import statements were used as part of this project to make use of the Ovo and Quattrocento Sans fonts which are used on all pages of the website.
+2. Font Awesome:
+    * Font Awesome was used on all pages of the website to add social media icons.
+3. Gitpod:
+    * Gitpod IDE was used for writing and editing code and version control.
+4. GitHub:
+    * GitHub is used to store the projects code after being pushed from Git.
+5. Balsamiq:
+    * Balsamiq was used to create the wireframes during the design phase.
+    
 
 ## Testing
 
