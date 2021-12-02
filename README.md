@@ -127,19 +127,19 @@ The website can directly be views using this link now.
 ### Forking Github Repository
 
 To make a copy of the original repository to make changes to it without affecting the original repository follow the below steps.  
-    1. Login to Github and open the Github Repository.    
-    2. Within the Repository click on the "Fork" at the right top corner.  
+1. Login to Github and open the Github Repository.    
+2. Within the Repository click on the "Fork" at the right top corner.  
  This would have created the same repository in your account.  
 
  ### Cloaning Github Repository
 
  For creating a clone of this repository follow the below steps.  
-    1. Login to Github and open the Github Repository.  
-    2. Click on the Code dropdown above the file list.  
-    3. Copy the https link shown in the https section.  
-    4. Open your local terminal/command prompt where git is installed.  
-    5. Navigate to the location where you want to clone the repository.  
-    6. Type the command   
+1. Login to Github and open the Github Repository.  
+2. Click on the Code dropdown above the file list.  
+3. Copy the https link shown in the https section.  
+4. Open your local terminal/command prompt where git is installed.  
+5. Navigate to the location where you want to clone the repository.  
+6. Type the command   
      ````
     git clone https://github.com/Pradnya144/Portfolio-Project-1.git
     ````   
