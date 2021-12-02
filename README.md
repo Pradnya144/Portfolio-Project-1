@@ -10,13 +10,13 @@ A website for aquarium and fish tank lovers and hobbiests based in Limerick, Ire
 
 ## Table of Contents
 
-* [User Experience (UX)](#)
-* [Design]()
-* [Skeleton]()
-* [Features]()
-* [Technologies]()
-* [Testing]()
-* [Acknowledgements & Credit]()
+* [User Experience (UX)](#User-Experience-(UX))
+* [Design](#Design)
+* [Features](#Features)
+* [Technologies](#technologies)
+* [Testing](#Testing)
+* [Deployment](#Deployment)
+* [Acknowledgements & Credit](#Acknowledgements-&-Credit)
 
 
 ## User Experience (UX)
@@ -97,7 +97,7 @@ I have used balsamiq to create layout mockup of how the website would look. Bein
 ### Frameworks, Libraries and Programs used
 
 1. Google Fonts:
-    * Google fonts import statements were used as part of this project to make use of the Ovo and Quattrocento Sans fonts which are used on all pages of the website.
+    * Google fonts import statements were used as part of this project to make use of the fonts which are used on all pages of the website.
 2. Font Awesome:
     * Font Awesome was used on all pages of the website to add social media icons.
 3. Gitpod:
@@ -106,9 +106,45 @@ I have used balsamiq to create layout mockup of how the website would look. Bein
     * GitHub is used to store the projects code after being pushed from Git.
 5. Balsamiq:
     * Balsamiq was used to create the wireframes during the design phase.
-    
+
 
 ## Testing
+
+## Deployment
+
+### Github Pages
+
+This project was developed using the Gitpod IDE and pushed to a Github repository with the use of Git version control.
+The project was deployed to GitHub Pages using the following steps...
+    1. Login to Github and open the Github Repository.
+    2. Within the Repository click on "Settings" from the top menu.
+    3. Go to the "Pages" section.
+    4. Under the Sources click the dropdown displaying None and select the branch to be deployed ("Main").
+    5. Click on the "Save" button.
+    6. Deployed link is now generated at the top. 
+The website can directly be views using this link now.
+
+### Forking Github Repository
+
+To make a copy of the original repository to make changes to it without affecting the original repository follow the below steps.  
+    1. Login to Github and open the Github Repository.    
+    2. Within the Repository click on the "Fork" at the right top corner.  
+ This would have created the same repository in your account.  
+
+ ### Cloaning Github Repository
+
+ For creating a clone of this repository follow the below steps.  
+    1. Login to Github and open the Github Repository.  
+    2. Click on the Code dropdown above the file list.  
+    3. Copy the https link shown in the https section.  
+    4. Open your local terminal/command prompt where git is installed.  
+    5. Navigate to the location where you want to clone the repository.  
+    6. Type the command   
+     ````
+    git clone https://github.com/Pradnya144/Portfolio-Project-1.git
+    ````   
+The repository is cloned and ready to use.  
+
 
 ## Acknowledgements & Credits
 
