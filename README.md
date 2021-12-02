@@ -115,21 +115,23 @@ I have used balsamiq to create layout mockup of how the website would look. Bein
 ### Github Pages
 
 This project was developed using the Gitpod IDE and pushed to a Github repository with the use of Git version control.
-The project was deployed to GitHub Pages using the following steps...
-    1. Login to Github and open the Github Repository.
-    2. Within the Repository click on "Settings" from the top menu.
-    3. Go to the "Pages" section.
-    4. Under the Sources click the dropdown displaying None and select the branch to be deployed ("Main").
-    5. Click on the "Save" button.
-    6. Deployed link is now generated at the top. 
-The website can directly be views using this link now.
+The project was deployed to GitHub Pages using the following steps.  
+1. Login to Github and open the Github Repository.  
+2. Within the Repository click on "Settings" from the top menu.  
+3. Go to the "Pages" section.  
+4. Under the Sources click the dropdown displaying None and select the branch to be deployed ("Main").  
+5. Click on the "Save" button.  
+6. Deployed link is now generated at the top.  
+
+The website can directly be viewed using this link now.
 
 ### Forking Github Repository
 
 To make a copy of the original repository to make changes to it without affecting the original repository follow the below steps.  
 1. Login to Github and open the Github Repository.    
-2. Within the Repository click on the "Fork" at the right top corner.  
- This would have created the same repository in your account.  
+2. Within the Repository click on the "Fork" at the right top corner.   
+
+This would have created the same repository in your account.  
 
  ### Cloaning Github Repository
 
