@@ -150,7 +150,14 @@ I have used balsamiq to create layout mockup of how the website would look. Bein
     * Balsamiq was used to create the wireframes during the design phase.
 
 
-## Testing
+## Testing  
+
+Since the website is purely built with HTML and CSS , I have made use of the [W3C Markup Validation Service](https://validator.w3.org/) and [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/validator.html.en) to validate HTML and CSS syntax in this project.  
+
+Both the tests **Pass**  
+![html validator result](README-docs/html-validator.JPG)  
+
+![css validator result](README-docs/css-validator.JPG)  
 
 ## Deployment
 
