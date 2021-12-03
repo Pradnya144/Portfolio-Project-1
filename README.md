@@ -88,7 +88,14 @@ I have used balsamiq to create layout mockup of how the website would look. Bein
 ![Third page wireframe](README-docs/third-page.png)
 
 
-## Features
+## Features  
+
+1. The header is visible on all the pages and has a maintained style throughout.  
+    * The title of the website is quite clear as to what the business offers.
+    * The navigation menu is at the bottom right of the header and clarly indicated the relevant section.
+    * The navigation is kept simple on purpose.  
+
+![website header](README-docs/header.JPG)  
 
 ## Technologies
 
