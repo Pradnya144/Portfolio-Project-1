@@ -31,11 +31,14 @@ h1 {
     margin-right: 20px;
     margin-bottom: 10px;
 }
+#menu li:hover {
+    border: 2px solid blue;
+}
 /* hero image */
 #hero-image {
     height: 900px;
     width: 100%;
-    margin-top: 25px;
+    margin-top: 30px;
     background-image: url('../images/gold-fish.jpg'); 
     background-attachment: fixed;
     background-position: center;
@@ -97,7 +100,7 @@ h1 {
     background-color: rgba(30, 100, 110, 1);
     height: 100%;
     color: #FEFFED;
-    margin-top: 25px;
+    margin-top: 30px;
 }
 
 /* enquiry form */
