@@ -97,6 +97,14 @@ I have used balsamiq to create layout mockup of how the website would look. Bein
 
 ![website header](README-docs/header.JPG)  
 
+2. The main body of the website on the landing page has a hero image and a section for about us.  
+    * The hero imaage is chosen appropriate to the aquarium theme and covers all of the page.
+    * I have added a parallax effect on scrolling the page on which the about us section becomes visible.  
+    * About us section contains few lines on what the business offers and a link to the "Gallery" and the "Contact form" so the visitor does not need to scroll back on top of the page to visit either of the two.  
+
+![hero page body](README-docs/hero-body.JPG)  
+
+
 ## Technologies
 
 ### Languages used
