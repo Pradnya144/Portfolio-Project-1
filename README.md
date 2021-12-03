@@ -111,6 +111,12 @@ I have used balsamiq to create layout mockup of how the website would look. Bein
 
 ![footer](README-docs/footer.JPG)  
 
+4. The Gallery page is a very vibrant page with images of different kinds of fishes and fish tanks on display.  
+    * On larger screens the images are arranged in 3 columns, where as on smaller screens it changes to 2 columns for better visibility.
+    * The images have a slight pop up effect on hover.  
+
+![gallery](README-docs/gallery.JPG)  
+
 ## Technologies
 
 ### Languages used
