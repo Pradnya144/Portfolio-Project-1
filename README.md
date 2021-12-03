@@ -104,6 +104,12 @@ I have used balsamiq to create layout mockup of how the website would look. Bein
 
 ![hero page body](README-docs/hero-body.JPG)  
 
+3. The footer is visible on all the pages and has a consistent style throughout.  
+    * The footer contains icons which are links to social media accounts of the business.
+    * When an icon is clicked the social media account opens in a new tab so that the visitors website viewing is not disrupted.  
+    * The color of the icons is selected to keep it consistent with the theme of the website.  
+
+![footer](README-docs/footer.JPG)  
 
 ## Technologies
 
