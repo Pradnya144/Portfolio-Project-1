@@ -148,6 +148,8 @@ I have used balsamiq to create layout mockup of how the website would look. Bein
     * GitHub is used to store the projects code after being pushed from Git.
 5. Balsamiq:
     * Balsamiq was used to create the wireframes during the design phase.
+6. Compressor.io:
+    * Used free version of https://compressor.io/ to compress jpg images.
 
 
 ## Testing  
@@ -158,6 +160,17 @@ Both the tests **Pass**
 ![html validator result](README-docs/html-validator.JPG)  
 
 ![css validator result](README-docs/css-validator.JPG)  
+
+I have run the entire website through Chrome's lighthouse audit service and the results are shown below.  
+
+**index.html**  
+
+![lighthouse result index page](README-docs/lighthouse_test_before.JPG)  
+
+In order to increase the Performance , I then compressed the hero image.  
+Below is the screenshot taken after the fix was applied.
+
+![lighthouse result after index page](README-docs/lighthouse-desktop-index.JPG)  
 
 ## Deployment
 
