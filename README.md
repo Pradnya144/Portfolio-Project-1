@@ -117,6 +117,18 @@ I have used balsamiq to create layout mockup of how the website would look. Bein
 
 ![gallery](README-docs/gallery.JPG)  
 
+5. The contact us page is designed keeping in mind two things that a customer would want to do. 
+    * Send in a query  
+    A form allows the website visitors to type in their name, email and query to submit it to the business.  
+    The business can then get in touch with the customer by replying back to the email.  
+
+![query form](README-docs/query-form.JPG)  
+    * Visit the store  
+    A google map with the location of the store pinned on it is availabe for customers who would want to visit the store.  
+    The store timings are also mentioned below the map for the customers to check for suitable timings.  
+
+![google map location](README-docs/map-location.JPG)  
+
 ## Technologies
 
 ### Languages used
