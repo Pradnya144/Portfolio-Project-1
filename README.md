@@ -175,6 +175,9 @@ Below is the screenshot taken after the fix was applied.
 **gallery.html**  
 **contact.html**  
 
+![lighthouse result contact page](README-docs/lighthouse-desktop-contact-before.JPG)
+
+
 
 
 ## Deployment
@@ -200,7 +203,7 @@ To make a copy of the original repository to make changes to it without affectin
 
 This would have created the same repository in your account.  
 
- ### Cloaning Github Repository
+ ### Cloning Github Repository
 
  For creating a clone of this repository follow the below steps.  
 1. Login to Github and open the Github Repository.  
