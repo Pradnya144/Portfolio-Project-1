@@ -9,37 +9,41 @@
 html {
     height: 100%;
 }
-/* title */
 
+/* title */
 header a {
     text-decoration: none;
 }
+
 h1 {
     font-family: 'Lobster', cursive;
     color: #0e4e80;
     text-align: center;
     font-size: 50px;
-    
 }
+
 #menu {
     font-size: 150%;
     float: right;
 }
+
 #menu li {
     float: left;
     list-style-type: none;
     margin-right: 20px;
     margin-bottom: 10px;
 }
+
 #menu li:hover {
     outline: 2px solid blue;
 }
+
 /* hero image */
 #hero-image {
     height: 900px;
     width: 100%;
     margin-top: 30px;
-    background-image: url('../images/gold-fish-compressed.jpg'); 
+    background-image: url('../images/gold-fish-compressed.jpg');
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -51,6 +55,7 @@ h1 {
     background-color: #1E646E;
     height: 300px;
 }
+
 #about-center {
     font-family: 'Playfair Display', serif;
     list-style-type: none;
@@ -63,7 +68,6 @@ h1 {
 #about-center a {
     color: #FEFFED;
     font-style: italic;
-
 }
 
 /* footer */
@@ -76,11 +80,11 @@ h1 {
 .social-media li {
     display: inline;
     font-size: 2.5rem;
-    padding:0 5%;
+    padding: 0 5%;
 }
 
 /* gallery */
-.photos  {
+.photos {
     clear: both;
     column-count: 3;
     padding: 50px;
@@ -90,6 +94,7 @@ h1 {
     width: 100%;
     transition: transform .2s;
 }
+
 .photos img:hover {
     transform: scale(1.1);
 }
@@ -104,15 +109,16 @@ h1 {
 }
 
 /* enquiry form */
-
 .contact-form {
     display: grid;
     place-items: center;
     height: 800px;
 }
+
 .container h2 {
     text-align: center;
 }
+
 #enquiry-form {
     font-family: 'Playfair Display', serif;
     background-color: rgba(0, 44, 47, 1);
@@ -121,6 +127,7 @@ h1 {
     padding: 40px 30px;
     font-size: 1.5rem;
 }
+
 #enquiry-form input {
     width: 100%;
     height: 40px;
@@ -129,6 +136,7 @@ h1 {
     font-size: inherit;
     font-family: inherit;
 }
+
 #enquiry-form textarea {
     width: 100%;
     margin: 5px 0 20px 0;
@@ -138,6 +146,7 @@ h1 {
     font-size: inherit;
     font-family: inherit;
 }
+
 #enquiry-form input[type=submit] {
     display: block;
     width: 300px;
@@ -148,10 +157,12 @@ h1 {
     margin-right: auto;
     margin-left: auto;
 }
+
 #enquiry-form input[type=submit]:hover {
     background-color: rgb(230, 14, 32);
     border: 1px solid black;
 }
+
 .map {
     padding-top: 100px;
 }
@@ -173,6 +184,7 @@ h1 {
     font-family: 'Playfair Display', serif;
     font-size: 1.5rem;
 }
+
 table {
     text-align: right;
     width: 80%;
@@ -182,6 +194,7 @@ th {
     font-weight: bold;
     text-transform: uppercase;
 }
+
 /* thank you page */
 #thank-you {
     text-align: center;
@@ -195,10 +208,11 @@ th {
         max-width: 2300px;
         margin: 0 auto;
     }
+
     h1 {
         font-size: 4rem;
-        
     }
+
     #menu {
         font-size: 3rem;
     }
@@ -208,21 +222,25 @@ th {
         height: 1500px;
         margin-top: 45px;
     }
-    
+
     /* about-us */
     .about-us {
         height: 400px;
     }
+
     #about-center {
         font-size: 3rem;
     }
+
     /* footer */
     .social-media {
         height: 60px;
     }
+
     .social-media li {
         font-size: 3rem;
     }
+
     .container {
         margin-top: 45px;
     }
@@ -232,30 +250,36 @@ th {
 @media screen and (max-width: 950px) {
     h1 {
         font-size: 2rem;
-        }
+    }
 
     #menu {
         font-size: 1rem;
-        }
-     #about-center {
+    }
+
+    #about-center {
         font-size: 1.5rem;
         padding-top: 70px;
-        }
+    }
+
     .social-media {
         height: 40px;
         padding-top: 10px;
     }
-    .social-media li{
+
+    .social-media li {
         font-size: 2rem;
     }
+
     .photos {
         column-count: 2;
         padding: 20px;
     }
+
     .container {
         padding: 15px;
         max-width: 950px;
     }
+
     .container h2 {
         font-size: 1rem;
     }
@@ -265,36 +289,37 @@ th {
         padding: 30px 20px;
         font-size: 1rem;
     }
+
     #enquiry-form input[type=submit] {
         width: 200px;
         font-size: 1rem;
     }
+
     #enquiry-form input[type=submit]:hover {
         width: 200px;
         font-size: 1rem;
     }
+
     .map iframe {
         height: 300px;
     }
+
     .timings-center {
         width: 100%;
         padding-left: inherit;
         font-size: 1rem;
     }
-
 }
 
 /* Media queries for screen size 500px wide and down */
 @media screen and (max-width: 500px) {
+
     /* hero image */
     #hero-image {
-        background-image: url('../images/gold-fish-snipped.jpg'); 
+        background-image: url('../images/gold-fish-snipped.jpg');
         background-attachment: fixed;
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
     }
-
 }
-
-
