@@ -184,6 +184,14 @@ Below is the screenshot taken after the fix was applied.
 
 ![lighthouse result after contact page](README-docs/lighthouse-desktop-contact-after.JPG)  
 
+### Test Cases
+
+| ID | Test Name | Steps | Expected Outcome | Result |  
+|----|-----------|-----|----------|----|  
+| T01 | Navigation-Clickable | Click on the "Gallery" and "Contact Us" links on each of the webpages (Gallery, ContactUs) | The link redirects to the correct page when clicked | Pass |  
+| T02 | Logo- Clickable | Click on the logo (website name) on each of the webpages (Gallery, Contact Us) | This should redirect to the home page or the main webpage of the website | Pass |  
+| T03 | About us- links | Click on the "Gallery" and "Where to find us?" | This should redirect to the "Gallery" and "Contact Us" page respectively | Pass |  
+| T04 | Social media links | Click on the social media icons in the footer of all the webpages | This should redirect to the respective social media websites | Pass |   
 
 ## Deployment
 
