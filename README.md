@@ -149,7 +149,9 @@ I have used balsamiq to create layout mockup of how the website would look. Bein
 5. Balsamiq:
     * Balsamiq was used to create the wireframes during the design phase.
 6. Compressor.io:
-    * Used free version of https://compressor.io/ to compress jpg images.
+    * Used free version of https://compressor.io/ to compress jpg images.  
+7. Formatting:
+    * The css file was passed through https://beautifier.io/ for a consistent formatting throughout the code.  
 
 
 ## Testing  
@@ -175,9 +177,12 @@ Below is the screenshot taken after the fix was applied.
 **gallery.html**  
 **contact.html**  
 
-![lighthouse result contact page](README-docs/lighthouse-desktop-contact-before.JPG)
+![lighthouse result contact page](README-docs/lighthouse-desktop-contact-before.JPG)  
 
+Lighthouse suggested adding title to the iframe for better accessibility.
+Below is the screenshot taken after the fix was applied.  
 
+![lighthouse result after contact page](README-docs/lighthouse-desktop-contact-after.JPG)  
 
 
 ## Deployment
