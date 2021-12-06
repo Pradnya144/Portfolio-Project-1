@@ -172,6 +172,11 @@ Below is the screenshot taken after the fix was applied.
 
 ![lighthouse result after index page](README-docs/lighthouse-desktop-index.JPG)  
 
+**gallery.html**  
+**contact.html**  
+
+
+
 ## Deployment
 
 ### Github Pages
