@@ -148,8 +148,8 @@ I have used balsamiq to create layout mockup of how the website would look. Bein
     * GitHub is used to store the projects code after being pushed from Git.
 5. Balsamiq:
     * Balsamiq was used to create the wireframes during the design phase.
-6. Compressor.io:
-    * Used free version of https://compressor.io/ to compress jpg images.  
+6. OnlineImageCompressor:
+    * Used free version of https://imagecompressor.com/ to compress jpg images.  
 7. Formatting:
     * The css file was passed through https://beautifier.io/ for a consistent formatting throughout the code.  
 
