@@ -191,7 +191,18 @@ Below is the screenshot taken after the fix was applied.
 | T01 | Navigation-Clickable | Click on the "Gallery" and "Contact Us" links on each of the webpages (Gallery, ContactUs) | The link redirects to the correct page when clicked | Pass |  
 | T02 | Logo- Clickable | Click on the logo (website name) on each of the webpages (Gallery, Contact Us) | This should redirect to the home page or the main webpage of the website | Pass |  
 | T03 | About us- links | Click on the "Gallery" and "Where to find us?" | This should redirect to the "Gallery" and "Contact Us" page respectively | Pass |  
-| T04 | Social media links | Click on the social media icons in the footer of all the webpages | This should redirect to the respective social media websites | Pass |   
+| T04 | Social media links | Click on the social media icons in the footer of all the webpages | This should redirect to the respective social media websites | Pass |  
+| T05 | UX- Home Page | On the home page scroll and visually check the parallax effect for positioning and readability | The about us section appears on scroll andis appropriately positioned and legible | Pass |  
+| T06 | UX- Gallery | Hover over the images to visually check the positioning and clarity | The images slightly zoom in on hover | Pass |  
+| T07 | Form- first name input check | On the Contact Us page attempt to submit the form without entering first name | User is prompted to enter a value in the First name field. Form is not submitted | Pass |  
+| T08 | Form- email input check | On the Contact Us page attempt to submit the form after entering the first name but without entering the email | User is prompted to enter a value in the Email field. Form is not submitted | Pass |  
+| T09 | Form- email input check | On the contact Us page attempt to submit the form after entering the first name and an invalid email address ( email address not containing @) | User is prompted to enter a valid value in the email field. Form is not submitted | Pass |  
+| T10 | Form- query input check | On the Contact Us page attempt to submit the form after entering First name and email but without entering query in the textarea | User is prompted to enter a value in the query field. Form is not submitted | Pass |  
+| T11 | Form- Submit | On the Contact Us page complete the form with valid inputs and click on submit | Form is successfully submitted. Thank you page appears. | Pass | 
+| T12 | UX- Submit | Hover the cursor over the submit button | On hovering the colour of the submit buttom changes | Pass |  
+| T13 | Interaction- Google map | On the Contact Us page interact with the google map | Map can be manually dragged, zoom in and zoom out work as expected | Pass |  
+| T14 | UX- Contact us | On the contact us page visually check the form, map and store timings for position and readability | All fields are appropriately positioned and legible | Pass |  
+| T15 | UX- Responsiveness | Repeat all the above tests for desktops, tablets and smartphone sizes | Screen should re-size so that text remains visible and all the items on the screen should position appropriately | Pass |  
 
 ## Deployment
 
