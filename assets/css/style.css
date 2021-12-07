@@ -326,4 +326,9 @@ th {
         background-repeat: no-repeat;
         background-size: cover;
     }
+
+    .photos {
+        column-count: 1;
+        padding: 20px;
+    }
 }
