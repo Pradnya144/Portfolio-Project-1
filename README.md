@@ -175,6 +175,14 @@ Below is the screenshot taken after the fix was applied.
 ![lighthouse result after index page](README-docs/lighthouse-desktop-index.JPG)  
 
 **gallery.html**  
+
+![lighthouse result gallery page](README-docs/lighthouse-desktop_gallery-before.JPG)  
+
+Compressed the image files for improving performance.  
+Below is the screenshot taken after the fix was applied.  
+
+![lighthouse result after gallery page](README-docs/lighthouse-desktop-gallery-after.JPG)  
+
 **contact.html**  
 
 ![lighthouse result contact page](README-docs/lighthouse-desktop-contact-before.JPG)  
