@@ -235,6 +235,13 @@ To make a copy of the original repository to make changes to it without affectin
 
 This would have created the same repository in your account.  
 
+Make changes to the project and push those changes back to Github using the below commands.  
+````
+git add .  
+git commit -m "commit message"  
+git push  
+````  
+
  ### Cloning Github Repository
 
  For creating a clone of this repository follow the below steps.  
