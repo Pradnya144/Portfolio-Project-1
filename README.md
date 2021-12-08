@@ -212,6 +212,15 @@ Below is the screenshot taken after the fix was applied.
 | T14 | UX- Contact us | On the contact us page visually check the form, map and store timings for position and readability | All fields are appropriately positioned and legible | Pass |  
 | T15 | UX- Responsiveness | Repeat all the above tests for desktops, tablets and smartphone sizes | Screen should re-size so that text remains visible and all the items on the screen should position appropriately | Pass |  
 
+### Browser Testing  
+
+The website was viewwed on
+* Google Chrome  
+* Microsoft Edge  
+* Mozilla Firefox  
+* Safari  
+
+
 ## Deployment
 
 ### Github Pages
