@@ -318,18 +318,19 @@ th {
 /* Media queries for screen size 500px wide and down */
 @media screen and (max-width: 500px) {
 
-    #about-center {
-        font-size: 1.2rem;
-        padding-top: 60px;
-    }
-
     /* hero image */
     #hero-image {
+        height: 800px;
         background-image: url('../images/gold-fish-snipped.jpg');
         background-attachment: fixed;
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
+    }
+
+    #about-center {
+        font-size: 1.2rem;
+        padding-top: 60px;
     }
 
     .photos {
