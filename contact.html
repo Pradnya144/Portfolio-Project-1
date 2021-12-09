@@ -12,8 +12,10 @@
 </head>
 <body>
     <header>
+        <!--Website name, clickable home link-->
         <a href="index.html"><h1>Aquarium Specialists</h1></a>
         <nav>
+            <!--Navigation menu for gallery and contact us page-->
             <ul id="menu">
                 <li><a href="gallery.html">Gallery</a></li>
                 <li><a href="contact.html">Contact Us</a></li>
@@ -22,8 +24,10 @@
     </header>
     <section>
         <div class="container">
+            <!--Query/Enquiry form-->
             <div class="contact-form">
                 <h2>Write to us and we will get in touch with you shortly</h2><br>
+                <!--using get instead of post because in github the submit.html page doesnt open with post-->
                 <form id="enquiry-form" action="submit.html" method="get">
                     <label for="fname">First Name:</label>
                     <input type="text" id="fname" name="fname" required><br>
@@ -36,10 +40,12 @@
                     <input type="submit" value="Submit">
                 </form>
             </div>
+            <!--Google Map location for the store-->
             <div class="map">
                 <h2>Drop By</h2><br>
                 <iframe src="https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=Parkway%20shopping%20center,%20Limerick,%20Ireland+(My%20Business%20Name)&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed" title="google-map"></iframe>
             </div>
+            <!--Store opening and closing timings-->
             <div class="timings-center">
                 <table>
                     <tr>
@@ -64,6 +70,7 @@
         </div>
     </section>
     <footer>
+        <!--External links to social media pages-->
         <ul class="social-media">
             <li>
                 <a href="https://facebook.com" target="_blank" rel="noopener" aria-label="Check out our instagram page (opens in a new tab)"><i class="fab fa-facebook-square"></i></a>
