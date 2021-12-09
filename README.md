@@ -214,11 +214,29 @@ Below is the screenshot taken after the fix was applied.
 
 ### Browser Testing  
 
-The website was viewwed on
+The website was viewed on
 * Google Chrome  
 * Microsoft Edge  
 * Mozilla Firefox  
 * Safari  
+
+### Smartphone, Tablet Testing  
+
+The website was viewed on  
+* Samsung Galaxy A70  
+* Samsung Galaxy A7
+* iPhone SE
+* iPad Air 2020  
+
+### Known Bugs  
+
+* The parallax on scroll effect is not compatible with iOS devices (iPhone, iPad).  
+After a lot of reading and searching I found that background-attachment property does not work well with iOS.  
+
+* During research I also came across some mentions, that it is not adviced using parallax scroll for smaller screens(smartphone). Nevertheless, I did want this effect to be shown on some devices that were compatible with it.  However I have disabled it for devices with screen width 400px and smaller refering to the following articles.  
+https://theme.co/forum/t/fix-for-parallax-issue-on-ipads/17540  
+https://community.adobe.com/t5/muse-discussions/parallax-scroll-effect-works-in-all-devices-but-ipad-iphone/m-p/8834589  
+https://forum.blocsapp.com/t/problems-with-parallax-effect/10458  
 
 
 ## Deployment
