@@ -26,6 +26,7 @@ h1 {
     font-size: 50px;
 }
 
+/* navigation */
 #menu {
     font-size: 150%;
     float: right;
@@ -167,6 +168,7 @@ h1 {
     border: 1px solid black;
 }
 
+/* Google map location */
 .map {
     padding-top: 100px;
 }
@@ -179,6 +181,7 @@ h1 {
     margin-left: auto;
 }
 
+/* store timings */
 .timings-center {
     display: table;
     margin-right: auto;
@@ -340,7 +343,6 @@ th {
 
 /* Media queries for screen size 400px wide and down */
 @media screen and (max-width: 400px) {
-
     #hero-image {
     background-attachment: scroll !important;
     }
