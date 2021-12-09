@@ -337,3 +337,12 @@ th {
         padding: 20px;
     }
 }
+
+/* Media queries for screen size 400px wide and down */
+@media screen and (max-width: 400px) {
+
+    #hero-image {
+    background-attachment: scroll !important;
+    }
+
+}
