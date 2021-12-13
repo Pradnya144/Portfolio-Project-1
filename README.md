@@ -46,7 +46,14 @@ The website consists of 3 pages.
 
 * A landing page/home page with a section having brief description of the business and links to the Photo Gallery and Contact form.
 * A Gallery page displaying the highlights of the projects done by the business.
-* A Contact page having a fill out form for enquiries and a map showing the location to the store along with store timings.
+* A Contact page having a fill out form for enquiries and a map showing the location to the store along with store timings.  
+
+### Future Advancements  
+
+As the business progresses and becomes more established the website can be updated to add more features to it.  
+* The website could include a dedicated page to list its products for sale, category wise.  
+* The customers can make an online purchase of items and pay for them online or opt for Cash On Delivery(COD).  
+* The customers can book an appointment online for installation and maintenance of their fish tank aquarium.  
 
 
 ## Design
